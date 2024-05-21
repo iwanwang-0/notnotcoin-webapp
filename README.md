@@ -1,0 +1,2 @@
+# notnotcoin-webapp
+Notnotcoin webapp
